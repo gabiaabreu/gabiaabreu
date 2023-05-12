@@ -1,8 +1,8 @@
-### Hi there! Welcome to my page (✿◡‿◡)
+#### Hi there! Welcome to my page (✿◡‿◡) 
 
 - 💻 I'm a front-end software developer based in Brazil
-- 💼 Working in a tech consulting company (~1 year experience with React/React Native, TypeScript and GraphQL)
-- 🧐 Software Engineering student
+- 💼 Working in a tech consulting company (1+ year experience with React/React Native, TypeScript and GraphQL)
+- 🧐 Software Engineering undergraduate student
 - 📝 Currently studying: JavaScript/TypeScript
 
 ✨ Here are some of my study notes and side projects.  
