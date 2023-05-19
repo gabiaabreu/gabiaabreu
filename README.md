@@ -14,16 +14,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabiaabreu&theme=monokai)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block">
-<picture>
 <img height="40" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" />
-</picture>
-<picture>
 <img height="40" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" />
-</picture>
-<picture>
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-</picture>
-<picture>
 <img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-</picture>
 </div><br>
