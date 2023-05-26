@@ -3,7 +3,7 @@
 - 💻 I'm a front-end software developer based in Brazil
 - 💼 Working in a tech consulting company (1+ year experience with React/React Native, TypeScript and GraphQL)
 - 🧐 Software Engineering undergraduate student
-- 📝 Currently studying: JavaScript/TypeScript
+- 📝 Currently studying: JavaScript/TypeScript, C#
 
 ✨ Here are some of my study notes and side projects.  
 📩 For contact: DM me on my LinkedIn page linked below!  
